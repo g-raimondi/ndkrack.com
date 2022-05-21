@@ -1,5 +1,4 @@
 # NDKRACK (ndkrack.com)
----
 This repository contains the source code for [ndkrack.com](https://ndkrack.com)
 
 ---
